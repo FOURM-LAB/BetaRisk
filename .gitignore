@@ -21,3 +21,7 @@ __pycache__/
 runs/
 logs/
 ckpts/
+data/
+
+# Bash scripts
+*.sh
