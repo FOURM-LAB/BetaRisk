@@ -2,7 +2,7 @@
 <div align="center">
 
   [![AAAI Paper](https://img.shields.io/badge/AAAI'26-xxxx-blue)](https://aaai.org/conference/aaai/aaai-26)&nbsp;&nbsp;
-  [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://www.gb-liang.com/betarisk/index.html)&nbsp;&nbsp;
+  [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://www.gb-liang.com/projects/betarisk)&nbsp;&nbsp;
   [![arXiv](https://img.shields.io/badge/arXiv-25xx.xxxx-red?style=flat&label=arXiv)](https://arxiv.org/abs/2404.06637)&nbsp;&nbsp;
 
   [Ahmad Elallaf](https://www.linkedin.com/in/ahmadhamdy60344b234/),&nbsp;&nbsp;
