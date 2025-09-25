@@ -74,6 +74,40 @@ A key advantage of ```BetaRisk``` is its ability to provide richer, more interpr
     </tbody>
 </table>
 
+### 🚀 Getting Started
+To set up the project and run the training code, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone <repository_url>
+    cd BetaRisk
+    ```
+
+2.  **Create a virtual environment and install dependencies:**
+    It is highly recommended to use a virtual environment.
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+    ```
+
+3.  **Download Pre-trained Weights:**
+    Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1fueEPJ-fJeEf3fSQ8kpVK1GCF--x8BqJ/view?usp=sharing).
+    Save the downloaded file as `pre-trained_weights_mscm.pth` inside the `./ckpts/pre-trained_weights/` directory.
+    You might need to create these directories if they don't exist:
+    ```bash
+    mkdir -p ckpts/pre-trained_weights/
+    mv /path/to/downloaded_file.pth ckpts/pre-trained_weights/pre-trained_weights_mscm.pth
+    ```
+
+4.  **Prepare Data Files:**
+    The dataset used in this project can be found from [MTSL-RoadRisk](https://www.gb-liang.com/MTSL-RoadRisk). 
+
+5.  **Run the Training Script:**
+    Once the dependencies are installed and pre-trained weights are in place, you can start the training process by running:
+    ```bash
+    python betarisk_train.py
+    ```
 
 ### 📜 Citation
 ```
@@ -87,10 +121,3 @@ A key advantage of ```BetaRisk``` is its ability to provide richer, more interpr
 
 #### 📄 License
 Distributed under the MIT License. See ```LICENSE``` for more information.
-
-
-
-
-
-
-
