@@ -9,7 +9,7 @@
   [Nathan Jacobs](https://jacobsn.github.io),&nbsp;&nbsp;
   [Xinyue Ye](https://geography.ua.edu/people/xinyue-ye),&nbsp;&nbsp;
   [Mei Chen](https://engr.uky.edu/people/mei-chen),&nbsp;&nbsp;
-  [Gongbo Liang](https://www.gb-liang.com),&nbsp;&nbsp;
+  [Gongbo Liang](https://www.gb-liang.com)
 
 </div>
 
