@@ -112,7 +112,7 @@ To set up the project and run the training code, follow these steps:
 ### 📜 Citation
 ```
 @inproceedings{elallaf2026betarisk,
-  title={BetaRisk: Probabilistic Roadway Crash Risk Assessment},
+  title={Beta Distribution Learning for Reliable Roadway Crash Risk Assessment},
   author={Elallaf, Ahmad and Jacobs, Nathan and Ye, Xinyue and Chen, Mei and Liang, Gongbo},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2026}
