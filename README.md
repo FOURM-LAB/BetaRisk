@@ -30,7 +30,7 @@ Roadway safety models often produce a single, deterministic risk score, which fa
 ### ✨ Key Features
 - **Probabilistic Formulation:** Outputs the ```α``` and ```β``` parameters of a Beta distribution to capture both risk and uncertainty for every prediction.
 - **Vision-Based:** Uses multi-scale satellite imagery as the sole input to learn the complex interplay of environmental risk factors.
-- **State-of-the-Art Performance:** Achieves a 38-42% relative improvement in recall and superior model calibration (ECE) compared to strong baselines.
+- **State-of-the-Art Performance:** Achieves a 17-23% relative improvement in recall and superior model calibration (ECE) compared to strong baselines.
 
 ### 💡 Prediction Interpretability
 A key advantage of ```BetaRisk``` is its ability to provide richer, more interpretable predictions than standard models. The table below demonstrates how a single, ambiguous score from a baseline model can correspond to **multiple, distinct scenarios** in ```BetaRisk```. For any given risk score, whether high (```0.85```), low (```0.15```), or medium (```0.50```), our model reveals the underlying confidence level, providing crucial context for decision-making that is unavailable in standard deterministic models.
@@ -114,7 +114,7 @@ To set up the project and run the training code, follow these steps:
 @inproceedings{elallaf2026betarisk,
   title={BetaRisk: Probabilistic Roadway Crash Risk Assessment},
   author={Elallaf, Ahmad and Jacobs, Nathan and Ye, Xinyue and Chen, Mei and Liang, Gongbo},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (Under Review)},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2026}
 }
 ```
