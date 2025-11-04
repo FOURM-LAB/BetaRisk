@@ -1,4 +1,4 @@
-# BetaRisk: Probabilistic Roadway Crash Risk Assessment
+# Beta Distribution Learning for Reliable Roadway Crash Risk Assessment (BetaRisk)
 <div align="center">
 
   [![AAAI Paper](https://img.shields.io/badge/AAAI'26-xxxx-blue)](https://aaai.org/conference/aaai/aaai-26)&nbsp;&nbsp;
