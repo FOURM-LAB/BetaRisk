@@ -92,7 +92,7 @@ To set up the project and run the training code, follow these steps:
     ```
 
 3.  **Download Pre-trained Weights:**
-    Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1fueEPJ-fJeEf3fSQ8kpVK1GCF--x8BqJ/view?usp=sharing).
+    Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1Yhek0_jSpgs4isGWkE0797H3WQZem-bI/view?usp=sharing).
     Save the downloaded file as `pre-trained_weights_mscm.pth` inside the `./ckpts/pre-trained_weights/` directory.
     You might need to create these directories if they don't exist:
     ```bash
