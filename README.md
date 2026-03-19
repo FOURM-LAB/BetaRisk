@@ -1,7 +1,7 @@
 # Beta Distribution Learning for Reliable Roadway Crash Risk Assessment (BetaRisk)
 <div align="center">
 
-  [![AAAI Paper](https://img.shields.io/badge/AAAI'26-AISI415-blue)](https://aaai.org/conference/aaai/aaai-26)&nbsp;&nbsp;
+  [![AAAI Paper](https://img.shields.io/badge/AAAI'26-AISI415-blue)](https://doi.org/10.1609/aaai.v40i45.41182)&nbsp;&nbsp;
   [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://www.gb-liang.com/projects/betarisk)&nbsp;&nbsp;
   [![arXiv](https://img.shields.io/badge/arXiv-2511.04886-red?style=flat&label=arXiv)](https://arxiv.org/abs/2511.04886)&nbsp;&nbsp;
 
