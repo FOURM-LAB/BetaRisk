@@ -111,11 +111,17 @@ To set up the project and run the training code, follow these steps:
 
 ### 📜 Citation
 ```
-@inproceedings{elallaf2026betarisk,
-  title={Beta Distribution Learning for Reliable Roadway Crash Risk Assessment},
-  author={Elallaf, Ahmad and Jacobs, Nathan and Ye, Xinyue and Chen, Mei and Liang, Gongbo},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2026}
+@article{elallaf2026betarisk, 
+	title={Beta Distribution Learning for Reliable Roadway Crash Risk Assessment}, 
+	author={Elallaf, Ahmad and Jacobs, Nathan and Ye, Xinyue and Chen, Mei and Liang, Gongbo}, 
+	journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+	volume={40}, 
+	number={45}, 
+	pages={38413-38421} ,
+	year={2026}, 
+	month={Mar.}, 
+	url={https://ojs.aaai.org/index.php/AAAI/article/view/41182}, 
+	DOI={10.1609/aaai.v40i45.41182}	
 }
 ```
 
